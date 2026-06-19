@@ -16,3 +16,16 @@ Today, I tried to see how feasible this really is, worked on a BOM, and started 
 
 Lapse link https://lapse.hackclub.com/timelapse/0PzSPEpTc7wA
 **Total time spent: 1.5 hours**
+
+# June 19
+
+Today I kept working on the BOM to try and get a more concrete idea on what the prices of parts will be, and how everything is going to fit together. I'm still a bit stuck on how I'm going to end up connecting all these PCBs together, but that will be a problem for the future. I also still need to figure out this whole situation with the softkeys. I think I might just be able to have buttons? We'll see. I'm still dissapointed that I wasn't able to find a good smooth encoder for cheap, I could only find one on mouser that's like $2 each, and I need 6. Shipping also adds a bunch of extra cost so maybe I'll buy some other parts there too to save on shipping. Right now the BOM is sitting around 100 bucks, but the PCB cost is probably inaccurate, and I also need to add in softkeys and filament costs. Hopefully I can get everything under like ~150 so I won't need to spend too many hours on this project.
+
+Current (rough) BOM:
+<img width="1399" height="355" alt="image" src="https://github.com/user-attachments/assets/d967a3fe-5122-4c2c-8053-95bdb0bcf3a1" />
+
+Sourcing parts is hard.
+
+Lapse link:
+
+**Total time spent: 1.25 hours**
