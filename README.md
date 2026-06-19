@@ -15,3 +15,4 @@ Today, I tried to see how feasible this really is, worked on a BOM, and started 
 <img width="2948" height="1589" alt="Untitled-2025-07-02-2135" src="https://github.com/user-attachments/assets/d253e4d9-4700-481d-a1d2-5dd3b04490a8" />
 
 Lapse link https://lapse.hackclub.com/timelapse/0PzSPEpTc7wA
+**Total time spent: 1.5 hours**
