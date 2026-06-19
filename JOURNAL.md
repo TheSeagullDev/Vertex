@@ -26,6 +26,6 @@ Current (rough) BOM:
 
 Sourcing parts is hard.
 
-Lapse link:
+Lapse link: https://lapse.hackclub.com/timelapse/foLBkUoTZqBs
 
 **Total time spent: 1.25 hours**
