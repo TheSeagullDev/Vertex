@@ -29,3 +29,14 @@ Sourcing parts is hard.
 Lapse link: https://lapse.hackclub.com/timelapse/foLBkUoTZqBs
 
 **Total time spent: 1.25 hours**
+
+# June 20
+
+Didn't do a ton of work today. I added a couple more small parts to the BOM, and I _began_ to work on the KiCad. I'm still not really sure how to structure it because I'm basically trying to have one main board that connects to like 10 daughter boards all via ribbon cables and stuff (because big PCB is **big** expensive). So I got the MCU in and I kinda understand what matrix layout I'm going to do. I forgot about the softkeys though, and that's going to add another potentially 18 keys which I don't really want to do... So if I end up adding them, I'll need to rethink my matrix, and also find a way to get a couple more keyswitches. This project is turning out to be a bit harder than I anticipated.
+
+Current schematic (really not much):
+<img width="1200" height="1118" alt="image" src="https://github.com/user-attachments/assets/eebfd4b9-0a35-4dcf-a6a3-cb376666c9f7" />
+
+Lapse Link: https://lapse.hackclub.com/timelapse/5L0_rGcffIIB
+
+**Total time spent: 0.75 hrs**
